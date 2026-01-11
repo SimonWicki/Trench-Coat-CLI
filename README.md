@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="trenchcoat.png" alt="Trench Coat" width="180"/>
+  <img src="trenchcoatt.png" alt="Trench Coat" width="400"/>
 </p>
 
 ```
@@ -1613,5 +1613,6 @@ Create a shell script for continuous monitoring:
 ```bash
 #!/bin/bash
 # monitor.sh
+
 
 WALLET="0x742
